@@ -20,7 +20,7 @@ mongoose.connect("mongodb://localhost/budget", {
   useFindAndModify: false
 });
 
-var MONGODB_URI = process.nextTick.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
 
 mongoose.connect(MONGODB_URI);
 
