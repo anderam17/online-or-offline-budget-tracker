@@ -2,6 +2,7 @@
 ## Table of Contents 
 * [Deployed Site](#deployed-site)
 *  [Description](#description)
+*  [Usage Instructions](#usage-instructions)
 *  [Technologies Used](#technologies-used)
 *  [Have Questions?](#have-questions)
 
